@@ -320,9 +320,6 @@ footer {
     .navbar a{
         margin: 0 15px;
     }
-    .section-1{
-        margin: 5em 0 10em;
-    }
     .features{
         flex-wrap: wrap;
         justify-content: center;
@@ -347,9 +344,6 @@ footer {
 @media only screen and (max-width:490px){
     .navbar {
         justify-content: center;
-    }
-    .section-1{
-        margin: 5em 0 10em;
     }
     .main-header{
         padding: 20px 6%;
